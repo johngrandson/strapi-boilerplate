@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
+  "author": {
+    "name": "João Netto",
+    "email": "jgrandson.dev@gmail.com",
+    "url": "https://johngrandson.github.io"
+  },
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -20,11 +25,6 @@
     "strapi-plugin-email": "3.1.1",
     "strapi-plugin-upload": "3.1.1",
     "strapi-connector-mongoose": "3.1.1"
-  },
-  "author": {
-    "name": "João Netto",
-    "email": "jgrandson.dev@gmail.com",
-    "url": "https://johngrandson.github.io"
   },
   "strapi": {
     "uuid": "98d69a3b-bc57-42e3-8837-b1a382d6c95a"
