@@ -18,13 +18,14 @@
   "dependencies": {
     "strapi": "3.1.1",
     "strapi-admin": "3.1.1",
-    "strapi-utils": "3.1.1",
-    "strapi-plugin-content-type-builder": "3.1.1",
+    "strapi-connector-mongoose": "3.1.1",
     "strapi-plugin-content-manager": "3.1.1",
-    "strapi-plugin-users-permissions": "3.1.1",
+    "strapi-plugin-content-type-builder": "3.1.1",
     "strapi-plugin-email": "3.1.1",
     "strapi-plugin-upload": "3.1.1",
-    "strapi-connector-mongoose": "3.1.1"
+    "strapi-plugin-users-permissions": "3.1.1",
+    "strapi-provider-upload-aws-s3": "^3.1.4",
+    "strapi-utils": "3.1.1"
   },
   "strapi": {
     "uuid": "98d69a3b-bc57-42e3-8837-b1a382d6c95a"
