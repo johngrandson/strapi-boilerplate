@@ -2,7 +2,7 @@
   "name": "backend",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A Strapi application for danielpeixoto project",
   "author": {
     "name": "João Netto",
     "email": "jgrandson.dev@gmail.com",
